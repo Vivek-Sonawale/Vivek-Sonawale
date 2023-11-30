@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivek-sonawale" alt="vivek-sonawale" /></a> </p>
 
-- 🔭 I’m currently working on [Notepad_Clone](https://github.com/Vivek-Sonawale/Notepad_Clone.git)
+- 🔭 I’m currently working on [Snake Game](https://github.com/Vivek-Sonawale/Snake-Game).
 
 - 🌱 I’m currently learning **Java API**
 
